@@ -1,7 +1,6 @@
 ## Hi there 👋
+I’m a Computer Science student at Florida International University with hands-on experience across systems programming, computer architecture, data structures, and software design. I’ve built and debugged projects — from multithreaded C programs and hash tables in Java to MIPS CPU components.
 
-<!--
-**MFMFUZE/MFMFUZE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
