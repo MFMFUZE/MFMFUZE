@@ -1,4 +1,4 @@
-# Hi, I'm Daniel J. Bencomo 👋
+# Hi, I'm Daniel Bencomo 👋
 
 I'm a Computer Science student at **Florida International University** in FIU's **4+1 Data Science & AI** program. My work spans systems programming, computer architecture, data structures, and full-stack development. I've built and debugged multithreaded C programs, Java hash tables, and MIPS CPU components.
 
