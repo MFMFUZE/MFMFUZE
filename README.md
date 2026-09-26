@@ -10,6 +10,6 @@ I'm a Computer Science student at **Florida International University** in FIU's 
 
 - **[AudioAura](https://github.com/llaurenstone/AudioAura)** — Spotify listening analytics built with React and Express. I supported backend work on Spotify authentication and API integration.
 - **[Marketing Agent](https://github.com/AlejandroCordovilla/Marketing-Agent)** — A team project using Java ADK agents and a React interface to research ideas and draft content for small businesses.
-- **[SEO Engine](https://github.com/luisferserrano/acelera-seo-engine)** · Acelera AI Consultants** — Contributed to an SEO automation project during my internship.
+- **[SEO Engine](https://github.com/luisferserrano/acelera-seo-engine) · Acelera AI Consultants** — Contributed to an SEO automation project during my internship.
 
 **Technologies I've worked with:** Java · Python · C · TypeScript · React · Node.js/Express · SQL · Docker · Git
